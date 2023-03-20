@@ -1,0 +1,6 @@
+{
+    "NORMAL": 0,
+    "PNEUMONIA": 1,
+    "COVID19": 2,
+    "TURBERCULOSIS": 3
+}
