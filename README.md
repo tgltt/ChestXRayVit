@@ -40,3 +40,8 @@
 <li><b>环境配置</b><br>
 <div>环境要求 Python>=3.6，且 PyTorch>=1.7
 </div>
+    
+<li><b>工程算法说明</b><br>
+<div>
+    本工程基于<b>Transformer框架</b>，根据任务要求和X光片数据集的特点，进行<b>算法模型改造</b>，改造点为裁减Transformer模型并只保留其Encoder、使用Vit将图片切碎(Patch)并将每个碎片Flatten后导入Transformer的Encoder，经Encoder提取特征后，最后经由一个Linear作分类。<br>
+</div>
