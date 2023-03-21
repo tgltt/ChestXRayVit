@@ -54,3 +54,11 @@
 </div>
 <br>
 <br>
+ 
+<li><b>工程训练过程</b><br>
+<div>
+    从下图可知，训练过程迭代到第9次时，损失函数、训练集准确率、验证集准确率和测试集准确率就已达成一个比较合适的状态。    
+</div>
+<div align=center>
+<img width="755" alt="image" src="https://user-images.githubusercontent.com/36066270/226546359-415566f5-6085-499c-895c-75b979c575e2.png">
+</div>
